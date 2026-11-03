@@ -22,3 +22,5 @@ aiofiles
 
 #experiment notebook
 ipykernel
+
+matplotlib
